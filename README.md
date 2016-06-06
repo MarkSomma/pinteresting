@@ -1,3 +1,13 @@
+# One Month Rails
+
+This is the Pinteresting sample application for 
+[ *One Month Rails* ] (http://onemonthrails.com)
+
+by Mark Somma fron=m the class of Mattan Griffel
+(http://mattangriffel.com)
+
+6 May, 2016
+--------------------------
 == README
 
 This README would normally document whatever steps are necessary to get the
